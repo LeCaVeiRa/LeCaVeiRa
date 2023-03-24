@@ -1,6 +1,6 @@
 ### Olá! Eu sou Yan Santos Wendt 👋
 
-- 🔭 Hoje trabalho com Desenvolvedor Java
+- 🔭 Hoje trabalho como Desenvolvedor Java
 - 🌱 Estudando Front-End (JavaScript)
 
 <div>
