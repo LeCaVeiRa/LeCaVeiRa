@@ -1,7 +1,7 @@
 ### Olá! Eu sou Yan Santos Wendt 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor Java
-- 🌱 Estudando Back-End (ASP.Net)
+- 🌱 Estudando Back-End (Spring Boot)
 
 <div>
   <a href="https://github.com/LeCaVeiRa">
